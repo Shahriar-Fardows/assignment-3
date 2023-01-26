@@ -1,0 +1,29 @@
+.btn-legal-solution{
+    background-color: #B68C5A !important;
+}
+.i-legal-solution{
+    background-color: #B68C5A !important;
+    border-radius: 50% !important;
+    padding: 7px;
+    color: white;
+}
+.tele-legal-solution{
+    padding: 15px;
+    background-color: #B68C5A;
+}
+.link-leal-solution{
+    color: #fff;
+    text-decoration: none;
+}
+.h-legal-solution{
+    height: 500px !important;
+}
+.modal-legal-solution{
+    background-color: #B68C5A;
+}
+.cri-law{
+  background-image: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+}
+.bg-con{
+    background-color: #F3F3F3;
+}
